@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, Welcome to my profile !
 
 <!--
 **mihirterna/mihirterna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[website]: https://mihirterna.github.io/
+[twitter]: https://twitter.com/mihirkulkarni3
+[linkedin]: https://www.linkedin.com/in/mihirkulkarni3/
